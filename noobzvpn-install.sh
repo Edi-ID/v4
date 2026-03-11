@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+z="
+";Az='set ';lz='chmo';kz='cd n';mz='d +x';Sz='IT_T';Kz='cd /';ez='/noo';Yz='clon';Lz='root';Pz='vpns';nz=' ins';Bz='-e';Qz='expo';Mz='rm -';fz='bz-i';Tz='ERMI';Xz='git ';oz='tall';Iz='-y g';hz='obzv';pz='.sh';Wz='PT=0';jz='git';Gz='inst';Jz='it';Rz='rt G';gz='d/no';Cz='apt ';Vz='PROM';Dz='upda';cz='thub';Hz='all ';Nz='rf n';iz='pns.';dz='.com';Ez='te -';Zz='e ht';bz='//gi';Oz='oobz';Uz='NAL_';qz='bash';az='tps:';Fz='y';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$z$Cz$Gz$Hz$Iz$Jz$z$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$Oz$Pz$z$lz$mz$nz$oz$pz$z$qz$nz$oz$pz"
